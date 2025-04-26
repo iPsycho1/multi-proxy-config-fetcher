@@ -16,7 +16,7 @@ SOURCE_URLS = [
     "https://shadowmere.xyz/api/b64sub/#@redfree8",
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://t.me/s/vpnfail_vless",
-    "https://t.me/s/DailyV2RY",
+    "https://sub.521177.xyz/Jay",
     "https://t.me/s/shadowproxy66",
     "https://t.me/s/OutlineReleasedKey",
     "https://t.me/s/proxy_shadosocks",
