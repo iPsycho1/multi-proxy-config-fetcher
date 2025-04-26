@@ -15,12 +15,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://shadowmere.xyz/api/b64sub/#@redfree8",
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
-    "https://t.me/s/vpnfail_vless",
-    "https://sub.521177.xyz/Jay",
-    "https://t.me/s/shadowproxy66",
-    "https://t.me/s/OutlineReleasedKey",
-    "https://t.me/s/proxy_shadosocks",
-    "https://t.me/s/ViProxys",
     # Add more URLs here if you want to include additional sources.
 ]
 
