@@ -14,7 +14,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://shadowmere.xyz/api/b64sub/#@redfree8",
-    "https://t.me/s/heyatserver",
+    "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
     "https://t.me/s/shadowproxy66",
