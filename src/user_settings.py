@@ -13,7 +13,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
     "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
-    "https://t.me/s/VmessProtocol",
+    "https://shadowmere.xyz/api/b64sub/#@redfree8",
     "https://t.me/s/heyatserver",
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
