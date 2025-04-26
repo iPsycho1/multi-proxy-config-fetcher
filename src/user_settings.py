@@ -12,7 +12,7 @@ SOURCE_URLS = [
     "https://t.me/s/IP_CF_Config",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
     "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
-    "https://t.me/s/DirectVPN",
+    "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://t.me/s/VmessProtocol",
     "https://t.me/s/heyatserver",
     "https://t.me/s/vpnfail_vless",
