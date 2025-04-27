@@ -3,13 +3,11 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     "https://t.me/s/Suevpnx",
     "https://panel.maviks.eu/sub/NTYyMjc2NDA5LDE3NDU2NjI4MzEduSSa0rsbQ",
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
     "https://raw.githubusercontent.com/IranRamona/singbox/refs/heads/main/sub/wearestand.json",
-    "https://t.me/s/IP_CF_Config",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
     "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
