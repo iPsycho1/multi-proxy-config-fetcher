@@ -76,6 +76,18 @@ vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:443?security=reality
 vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam', this)">Copy</button>
             <button class="qr-button" data-link="
 
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@c.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam" readonly>
+            <button class="copy-button" onclick="copyLink('
+
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@c.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam">QR Code</button>
+        </li>
+        
+        <li>
+            <input type="text" value="
+
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@c.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam', this)">Copy</button>
+            <button class="qr-button" data-link="
+
 vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve" readonly>
             <button class="copy-button" onclick="copyLink('
 
@@ -180,12 +192,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880/?type=grpc&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%201
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%202
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%208
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%2042
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%2036
 
 trojan://AXpQXM4vNh@141.227.160.167:1935/?type=tcp&security=tls&sni=x2swe-ovh.devefun.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%203
 
