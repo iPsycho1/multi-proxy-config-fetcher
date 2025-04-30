@@ -13,6 +13,7 @@ SOURCE_URLS = [
     "https://shadowmere.xyz/api/b64sub/#@redfree8",
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://panel.maviks.eu/sub/NjE3Mzg1MTE4MywxNzQ1NjYzODY5ac1o7kfeLv",
+    "https://raw.githubusercontent.com/iPsycho1/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
