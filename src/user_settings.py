@@ -7,7 +7,6 @@ SOURCE_URLS = [
     "https://t.me/s/Suevpnx",
     "https://panel.maviks.eu/sub/NTYyMjc2NDA5LDE3NDU2NjI4MzEduSSa0rsbQ",
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
-    "https://raw.githubusercontent.com/IranRamona/singbox/refs/heads/main/sub/wearestand.json",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
     "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
