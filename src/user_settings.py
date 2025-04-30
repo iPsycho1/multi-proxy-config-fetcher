@@ -14,6 +14,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://panel.maviks.eu/sub/NjE3Mzg1MTE4MywxNzQ1NjYzODY5ac1o7kfeLv",
     "https://raw.githubusercontent.com/iPsycho1/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
+    "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
