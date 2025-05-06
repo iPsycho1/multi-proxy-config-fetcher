@@ -4,16 +4,13 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
-    "https://t.me/s/Suevpnx",
+    "https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1",
     "https://panel.maviks.eu/sub/NTYyMjc2NDA5LDE3NDU2NjI4MzEduSSa0rsbQ",
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
-    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
-    "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#𝐈𝐑𝐂𝐏",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://shadowmere.xyz/api/b64sub/#@redfree8",
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://panel.maviks.eu/sub/NjE3Mzg1MTE4MywxNzQ1NjYzODY5ac1o7kfeLv",
-    "https://raw.githubusercontent.com/iPsycho1/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
