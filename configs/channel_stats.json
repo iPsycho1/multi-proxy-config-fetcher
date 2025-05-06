@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-06T01:05:51.888307+00:00",
+  "timestamp": "2025-05-06T02:53:39.753213+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.72,
-        "last_success": "2025-05-06T01:00:09.014164+00:00",
+        "last_success": "2025-05-06T02:47:57.823831+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -25,7 +25,7 @@
       }
     },
     {
-      "url": "https://t.me/s/Suevpnx",
+      "url": "https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1",
       "enabled": false,
       "metrics": {
         "total_configs": 0,
@@ -54,11 +54,11 @@
         "total_configs": 2145,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.47,
-        "last_success": "2025-05-06T01:00:14.254371+00:00",
+        "overall_score": 74.58,
+        "last_success": "2025-05-06T02:48:08.133828+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -94,63 +94,17 @@
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Fragment",
-      "enabled": false,
-      "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#\ud835\udc08\ud835\udc11\ud835\udc02\ud835\udc0f",
-      "enabled": false,
-      "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
       "url": "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.57,
-        "last_success": "2025-05-06T01:00:28.602442+00:00",
+        "overall_score": 77.63,
+        "last_success": "2025-05-06T02:48:18.234134+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -192,11 +146,11 @@
         "total_configs": 493500,
         "valid_configs": 396,
         "unique_configs": 396,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.96,
-        "last_success": "2025-05-06T01:05:47.309332+00:00",
+        "overall_score": 74.91,
+        "last_success": "2025-05-06T02:53:37.307638+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -215,38 +169,15 @@
         "total_configs": 2145,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.51,
-        "last_success": "2025-05-06T01:05:49.800226+00:00",
+        "overall_score": 74.58,
+        "last_success": "2025-05-06T02:53:39.752256+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 15,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
-      "url": "https://raw.githubusercontent.com/iPsycho1/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
-      "enabled": false,
-      "metrics": {
-        "total_configs": 100,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
