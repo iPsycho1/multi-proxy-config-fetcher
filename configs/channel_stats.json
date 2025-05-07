@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-07T19:15:54.596260+00:00",
+  "timestamp": "2025-05-07T20:19:46.153906+00:00",
   "channels": [
     {
       "url": "https://shadowmere.xyz/api/b64sub/",
@@ -31,11 +31,11 @@
         "total_configs": 2145,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.5,
+        "avg_response_time": 1.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.42,
-        "last_success": "2025-05-07T19:13:14.454021+00:00",
+        "overall_score": 73.56,
+        "last_success": "2025-05-07T20:17:06.215885+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.59,
-        "last_success": "2025-05-07T19:13:16.583317+00:00",
+        "overall_score": 77.61,
+        "last_success": "2025-05-07T20:17:08.330713+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -81,7 +81,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.01,
-        "last_success": "2025-05-07T19:15:47.884062+00:00",
+        "last_success": "2025-05-07T20:19:39.440791+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -104,7 +104,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.5,
-        "last_success": "2025-05-07T19:15:50.386189+00:00",
+        "last_success": "2025-05-07T20:19:41.938371+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 64,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.61,
-        "last_success": "2025-05-07T19:15:52.469582+00:00",
+        "overall_score": 77.57,
+        "last_success": "2025-05-07T20:19:44.050548+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
