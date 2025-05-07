@@ -150,5 +150,5 @@ This project is provided for educational and informational purposes only. The de
 
 ## About the Developer
 
-Developed by **4n0nymou3**.  
-For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/4n0nymou3).
+Developed by **iPsycho**.  
+For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/psycho).
