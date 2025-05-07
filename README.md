@@ -35,7 +35,7 @@ Below is the real-time performance statistics of the configured sources (Telegra
 </div>
 
 ### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/iPsycho1/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Important for Forked Repositories**:  
 If you fork this repository, make sure to replace `USERNAME` in the above link with your GitHub username. This ensures that the link directs to your own interactive dashboard instead of the original project's dashboard. To do this:
