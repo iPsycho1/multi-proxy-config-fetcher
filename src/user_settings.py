@@ -10,6 +10,7 @@ SOURCE_URLS = [
     "https://panel.maviks.eu/sub/NjE3Mzg1MTE4MywxNzQ1NjYzODY5ac1o7kfeLv",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Location",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
