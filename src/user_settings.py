@@ -11,6 +11,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Location",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
+    "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
     # Add more URLs here if you want to include additional sources.
 ]
 
