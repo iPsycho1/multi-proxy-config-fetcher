@@ -13,6 +13,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
     "https://sub.521177.xyz/Jay",
+    "https://zaya.link/T_hamedp71",
     # Add more URLs here if you want to include additional sources.
 ]
 
