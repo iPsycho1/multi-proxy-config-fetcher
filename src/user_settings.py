@@ -14,6 +14,7 @@ SOURCE_URLS = [
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
     "https://sub.521177.xyz/Jay",
     "https://zaya.link/T_hamedp71",
+    "https://xb.inekokkk.com/amei/0c230a6f6a95c9a9d3cdada708c9b1cb",
     # Add more URLs here if you want to include additional sources.
 ]
 
