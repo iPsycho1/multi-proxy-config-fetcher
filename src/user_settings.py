@@ -15,6 +15,7 @@ SOURCE_URLS = [
     "https://sub.521177.xyz/Jay",
     "https://zaya.link/T_hamedp71",
     "https://xb.inekokkk.com/amei/0c230a6f6a95c9a9d3cdada708c9b1cb",
+    "https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&flag=clash",
     # Add more URLs here if you want to include additional sources.
 ]
 
