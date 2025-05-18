@@ -6,15 +6,12 @@ SOURCE_URLS = [
     "https://shadowmere.xyz/api/b64sub/",
     "https://zood.link/Tr_hamedp71",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
-    "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Location",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
     "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
-    "https://sub.521177.xyz/Jay",
     "https://zaya.link/T_hamedp71",
     "https://xb.inekokkk.com/amei/0c230a6f6a95c9a9d3cdada708c9b1cb",
-    "https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&flag=clash",
     # Add more URLs here if you want to include additional sources.
 ]
 
