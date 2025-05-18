@@ -4,10 +4,9 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://shadowmere.xyz/api/b64sub/",
-    "https://panel.maviks.eu/sub/NTYyMjc2NDA5LDE3NDU2NjI4MzEduSSa0rsbQ",
+    "https://zood.link/Tr_hamedp71",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
-    "https://panel.maviks.eu/sub/NjE3Mzg1MTE4MywxNzQ1NjYzODY5ac1o7kfeLv",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Location",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
