@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-21T10:17:05.827271+00:00",
+  "timestamp": "2025-05-21T11:14:08.186191+00:00",
   "channels": [
     {
       "url": "https://shadowmere.xyz/api/b64sub/",
@@ -31,11 +31,11 @@
         "total_configs": 16002,
         "valid_configs": 126,
         "unique_configs": 126,
-        "avg_response_time": 1.78,
+        "avg_response_time": 2.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.53,
-        "last_success": "2025-05-21T10:16:42.021274+00:00",
+        "overall_score": 71.9,
+        "last_success": "2025-05-21T11:13:44.496634+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.56,
-        "last_success": "2025-05-21T10:16:44.166210+00:00",
+        "overall_score": 77.6,
+        "last_success": "2025-05-21T11:13:46.617840+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 10000,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.84,
-        "last_success": "2025-05-21T10:16:46.443195+00:00",
+        "last_success": "2025-05-21T11:13:48.899074+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 29,
-        "unique_configs": 29,
-        "avg_response_time": 0.08,
+        "valid_configs": 28,
+        "unique_configs": 28,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.91,
-        "last_success": "2025-05-21T10:16:49.283416+00:00",
+        "overall_score": 75.02,
+        "last_success": "2025-05-21T11:13:51.677943+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 12,
+          "vmess://": 9,
           "ss://": 0,
-          "trojan://": 17,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
@@ -121,7 +121,7 @@
       "enabled": false,
       "metrics": {
         "total_configs": 22500,
-        "valid_configs": 29,
+        "valid_configs": 28,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
@@ -132,9 +132,9 @@
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 12,
+          "vmess://": 9,
           "ss://": 0,
-          "trojan://": 17,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
@@ -169,11 +169,11 @@
         "total_configs": 19317,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.31,
-        "last_success": "2025-05-21T10:17:03.131494+00:00",
+        "overall_score": 74.34,
+        "last_success": "2025-05-21T11:14:05.410387+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -192,11 +192,11 @@
         "total_configs": 210,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.77,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.63,
-        "last_success": "2025-05-21T10:17:05.826532+00:00",
+        "overall_score": 75.51,
+        "last_success": "2025-05-21T11:14:08.185457+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
