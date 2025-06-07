@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T06:22:43.036517+00:00",
+  "timestamp": "2025-06-07T07:17:21.869328+00:00",
   "channels": [
     {
       "url": "https://shadowmere.xyz/api/b64sub/",
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.59,
-        "last_success": "2025-06-07T06:22:21.622844+00:00",
+        "overall_score": 77.62,
+        "last_success": "2025-06-07T07:17:00.488305+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 10000,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2025-06-07T06:22:23.877616+00:00",
+        "overall_score": 74.86,
+        "last_success": "2025-06-07T07:17:02.757833+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,16 +100,16 @@
         "total_configs": 22650,
         "valid_configs": 34,
         "unique_configs": 34,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.9,
-        "last_success": "2025-06-07T06:22:26.695154+00:00",
+        "overall_score": 75.03,
+        "last_success": "2025-06-07T07:17:05.547617+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 4,
-          "vmess://": 17,
+          "vless://": 0,
+          "vmess://": 21,
           "ss://": 0,
           "trojan://": 13,
           "tuic://": 0
@@ -131,8 +131,8 @@
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 4,
-          "vmess://": 17,
+          "vless://": 0,
+          "vmess://": 21,
           "ss://": 0,
           "trojan://": 13,
           "tuic://": 0
@@ -167,20 +167,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17157,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.46,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.34,
-        "last_success": "2025-06-07T06:22:40.323869+00:00",
+        "overall_score": 74.37,
+        "last_success": "2025-06-07T07:17:19.201873+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 21,
+          "trojan://": 13,
           "tuic://": 0
         }
       }
@@ -192,11 +192,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.71,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.86,
-        "last_success": "2025-06-07T06:22:43.035725+00:00",
+        "overall_score": 75.93,
+        "last_success": "2025-06-07T07:17:21.868648+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
