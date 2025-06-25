@@ -4,14 +4,14 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://shadowmere.xyz/api/b64sub/",
-    "https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a",
+    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
-    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Location",
+    "https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
-    "https://fs.v2rayse.com/share/20250417/kn4eyffwk0.json#kn4eyffwk0",
+    "https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
     "https://zaya.link/T_hamedp71",
-    "https://xb.inekokkk.com/amei/0c230a6f6a95c9a9d3cdada708c9b1cb",
+    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/hiddify/mix",
     # Add more URLs here if you want to include additional sources.
 ]
 
