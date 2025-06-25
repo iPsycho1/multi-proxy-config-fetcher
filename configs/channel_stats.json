@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T14:25:05.832359+00:00",
+  "timestamp": "2025-06-25T15:26:49.924997+00:00",
   "channels": [
     {
       "url": "https://shadowmere.xyz/api/b64sub/",
@@ -28,21 +28,21 @@
       "url": "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
       "enabled": true,
       "metrics": {
-        "total_configs": 504100,
-        "valid_configs": 70,
-        "unique_configs": 70,
-        "avg_response_time": 0.13,
+        "total_configs": 531441,
+        "valid_configs": 66,
+        "unique_configs": 66,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.81,
-        "last_success": "2025-06-25T14:19:16.013353+00:00",
+        "overall_score": 74.57,
+        "last_success": "2025-06-25T15:20:38.194846+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 2,
-          "vmess://": 48,
+          "vmess://": 45,
           "ss://": 0,
-          "trojan://": 20,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.66,
-        "last_success": "2025-06-25T14:19:18.157227+00:00",
+        "overall_score": 77.65,
+        "last_success": "2025-06-25T15:20:40.348799+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -74,21 +74,21 @@
       "url": "https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 284616,
-        "valid_configs": 521,
-        "unique_configs": 517,
-        "avg_response_time": 0.07,
+        "total_configs": 294300,
+        "valid_configs": 530,
+        "unique_configs": 526,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.75,
-        "last_success": "2025-06-25T14:21:34.349420+00:00",
+        "overall_score": 74.68,
+        "last_success": "2025-06-25T15:23:03.323010+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 262,
-          "vmess://": 198,
-          "ss://": 20,
-          "trojan://": 41,
+          "vless://": 264,
+          "vmess://": 204,
+          "ss://": 19,
+          "trojan://": 43,
           "tuic://": 0
         }
       }
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 78,
-        "unique_configs": 78,
-        "avg_response_time": 0.02,
+        "valid_configs": 87,
+        "unique_configs": 87,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.06,
-        "last_success": "2025-06-25T14:21:37.140106+00:00",
+        "overall_score": 75.02,
+        "last_success": "2025-06-25T15:23:06.123488+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 28,
-          "vmess://": 17,
-          "ss://": 13,
-          "trojan://": 20,
+          "vless://": 32,
+          "vmess://": 18,
+          "ss://": 18,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
@@ -121,20 +121,20 @@
       "enabled": false,
       "metrics": {
         "total_configs": 22500,
-        "valid_configs": 78,
+        "valid_configs": 87,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 1,
-        "overall_score": 15.09,
+        "overall_score": 15.1,
         "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 28,
-          "vmess://": 17,
-          "ss://": 13,
-          "trojan://": 20,
+          "vless://": 32,
+          "vmess://": 18,
+          "ss://": 18,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
@@ -145,12 +145,12 @@
       "metrics": {
         "total_configs": 6400,
         "valid_configs": 78,
-        "unique_configs": 28,
-        "avg_response_time": 0.05,
+        "unique_configs": 25,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 59.2,
-        "last_success": "2025-06-25T14:21:42.323048+00:00",
+        "overall_score": 58.07,
+        "last_success": "2025-06-25T15:23:11.465664+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -164,16 +164,16 @@
     },
     {
       "url": "https://zaya.link/T_hamedp71",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 23100,
         "valid_configs": 78,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.08,
-        "last_success": null,
+        "unique_configs": 19,
+        "avg_response_time": 0.63,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 55.23,
+        "last_success": "2025-06-25T15:23:14.863267+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -189,8 +189,8 @@
       "url": "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/hiddify/mix",
       "enabled": false,
       "metrics": {
-        "total_configs": 508360,
-        "valid_configs": 70,
+        "total_configs": 535815,
+        "valid_configs": 66,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
@@ -201,9 +201,9 @@
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 2,
-          "vmess://": 48,
+          "vmess://": 45,
           "ss://": 0,
-          "trojan://": 20,
+          "trojan://": 19,
           "tuic://": 0
         }
       }
