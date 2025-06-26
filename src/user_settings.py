@@ -10,7 +10,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
     "https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
-    "https://zaya.link/T_hamedp71",
+    "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/hiddify/mix",
     # Add more URLs here if you want to include additional sources.
 ]
