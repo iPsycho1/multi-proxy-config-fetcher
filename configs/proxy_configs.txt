@@ -24,6 +24,8 @@ vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@178.239.149.79:2086?security=none&e
 
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@178.239.149.79:2086?security=none&type=tcp&host=bmw.com&headerType=http#🏳[openproxylist.com] vless-
 
+vless://0970359e-7e8c-4003-b991-863e0f26be7c@46.38.146.250:443?type=tcp&host=www.speedtest.net&headerType=http#🏳[openproxylist.com] vless-
+
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.21.56.2:2087?path=%2FTHphhzaOTIO9JGR5%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=iPsycho.SUex1.WOrkErs.deV#%F0%9F%92%A6%2034%20-%20VLESS%20-%20IPv4%20%3A%202087
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.25.141:2087?path=%2FUvIHhdb36gfvbuSN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=ipSYCHo.sueX1.WorKErS.DEv#%F0%9F%92%A6%2038%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
@@ -57,8 +59,6 @@ vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.56.55:2082?path=%2FFas8qpq5O
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.59.196:2082?path=%2FT4a8irhfXJBIN4Al%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2014%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.59.196:2087?path=%2Fk9TtHstTstKdpoyx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=IPSyChO.sUex1.WOrkers.DeV#%F0%9F%92%A6%2045%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
-
-vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.62.231:2082?path=%2Fe1Uf9y9FWKSaCPaZ%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2026%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🇮🇷 IR-185.143.235.201:2096
 
@@ -138,9 +138,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5Zjk
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🏳[openproxylist.com] ss-
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNEpqeHZhOWlUN2RjS2VuUkV6M3hn@176.124.207.105:37322#🏳[openproxylist.com] ss-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🏳[openproxylist.com] ss-
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🏳[openproxylist.com] ss-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%D9%85%20%DA%AF%D9%88%DA%AF%D9%88%D9%84%DB%8C%20%D9%85%DA%AF%D9%88%D9%84%DB%8C%20%20%40vless_config
 
@@ -154,23 +160,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%AA
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#🏳[openproxylist.com] ss-
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%7C%20%40Club_Profsor
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#Channel%20id%3A%20%40ShadowProxy66
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#🏳[openproxylist.com] ss-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#🏳[openproxylist.com] ss-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#🏳[openproxylist.com] ss-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha2NIVnQ5YlBoOERDazZqTUt6NjJq@198.211.104.229:60573#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#🏳[openproxylist.com] ss-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-
-ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw%3D%3D@37.202.231.23:444#Channel%20id%3A%20%40ShadowProxy66
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🏳[openproxylist.com] ss-
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#q22
 
