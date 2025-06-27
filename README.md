@@ -20,7 +20,7 @@ This project features advanced capabilities for proxy configuration management. 
 
 Sing-box subscription link:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/iPsycho1/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## Channel and URL Performance
@@ -151,4 +151,4 @@ This project is provided for educational and informational purposes only. The de
 ## About the Developer
 
 Developed by **iPsycho**.  
-For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/psycho).
+For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/iPsycho01).
