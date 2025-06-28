@@ -10,6 +10,8 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&
 
 vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&sid=2404&type=tcp&headerType=none#qoli_16
 
+vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#🏳[openproxylist.com] vless-
+
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@dnschecker.org:443?encryption=none&security=tls&sni=tx.vs2024.dpdns.org&fp=random&type=ws&host=tx.vs2024.dpdns.org&path=%2F%3Fed%3D2560#qoli_42
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.21.56.2:2087?path=%2FTHphhzaOTIO9JGR5%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=iPsycho.SUex1.WOrkErs.deV#%F0%9F%92%A6%2034%20-%20VLESS%20-%20IPv4%20%3A%202087
@@ -57,8 +59,6 @@ vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.169:2082?path=%2FxoMdwI
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.169:2087?path=%2FRjn7nBcEEwV55sDy%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=IPSychO.sueX1.WORKerS.dev#%F0%9F%92%A6%2060%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.193:2082?path=%2FcFVXnV2BOesq5r5a%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2030%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
-
-vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.193:2087?path=%2FUxQXuxi2QUkOWeju%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=ipsyCHo.SUex1.WORkErS.DEV#%F0%9F%92%A6%2061%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
 
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🇮🇷 IR-185.143.235.201:2096
 
@@ -140,7 +140,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5Zjk
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🏳[openproxylist.com] ss-
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443# https://t.me/ConfigX2ray
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#🏳[openproxylist.com] ss-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443# https://t.me/ConfigX2ray
 
@@ -148,13 +152,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#FG%20FAST
-
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@ss.sps1.sbs:20#%F0%9F%9A%80%20TYT%20%28T_7815660326%29%20%5BShadowsocks%5D
 
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#🌟@𝙎𝙞𝙉𝘼𝙑𝙈👈🏻کانال تلگرامی
-
-hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:36300/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#🍄@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻استارلینک
 
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:36400/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#🇨🇮@𝐒𝐢𝐍𝐀𝐕𝐌👈5️⃣کانال
 
