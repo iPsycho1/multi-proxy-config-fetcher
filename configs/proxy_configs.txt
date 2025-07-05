@@ -14,8 +14,6 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&e
 
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:443?encryption=none&security=tls&sni=oRdEr.fortGIFT.ir&fp=randomized&type=ws&host=oRdEr.fortGIFT.ir&path=%2FB7tnDeiaEFHTS0Li#q_034
 
-vless://0a9b5598-e5c6-5a96-9c37-2a8f1eee2cce@95.215.8.25:443?path=%2Fvless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#S69
-
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.21.56.2:2087?path=%2FTHphhzaOTIO9JGR5%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=iPsycho.SUex1.WOrkErs.deV#%F0%9F%92%A6%2034%20-%20VLESS%20-%20IPv4%20%3A%202087
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.25.141:2087?path=%2FUvIHhdb36gfvbuSN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=ipSYCHo.sueX1.WorKErS.DEv#%F0%9F%92%A6%2038%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
@@ -59,6 +57,8 @@ vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.80.72:2082?path=%2F9Il7YbZer
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.169:2082?path=%2FxoMdwIEZT9AnMmdF%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2029%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.169:2087?path=%2FRjn7nBcEEwV55sDy%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=IPSychO.sueX1.WORKerS.dev#%F0%9F%92%A6%2060%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
+
+vless://0bed33df-5714-4985-bf6b-035a01df4a00@162.158.146.193:2082?path=%2FcFVXnV2BOesq5r5a%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2030%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🇮🇷 IR-185.143.235.201:2096
 
@@ -120,8 +120,6 @@ ss://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@eir-72.f-sub.cfd:2398?security=none&ty
 
 ss://5d19d8d8-d0c8-4ea0-b86e-082030397ebc@85.133.221.46:6012?encryption=none&security=reality&sni=traffic-tile.maps.snapp.ir&fp=safari&pbk=OCW4VToUh_2gtej7iO30chCKwUWDmmmpW01kHE4BDwU&sid=7fcf499c88f80777&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.221.46%3A6012
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita 1
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
@@ -176,8 +174,6 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=0#q_050
 
 hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?security=tls&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1&sni=www.google.com#1.%F0%9F%94%A5FREE%20HOMES%20VPN%F0%9F%94%A5
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDE3IiwNCiAgImFkZCI6ICJucG1qcy5jb20iLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogInNwY21wa2wxNGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNwY21wa2wxNGEtOTE5OTE1MDI0Mi5raGFzdGVobmFiYXNoaS5jb20iLA0KICAicGF0aCI6ICIvaGV0em5lci9jZG4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDEgfCBFbWVyZ2VuY3kiLA0KICAiYWRkIjogIm5wbWpzLmNvbSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiZG5scWZhcXFybiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZG5scWZhcXFybi05MTk5MTMwMTIxLmtoYXN0ZWhuYWJhc2hpLmNvbSIsDQogICJwYXRoIjogIi9oZXR6bmVyL2NkbiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDIgfCBFbWVyZ2VuY3kiLA0KICAiYWRkIjogIm5wbWpzLmNvbSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAia2U3aHozNmV3eiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLA0KICAicGF0aCI6ICIvbmFzbmV0L2NkbiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
@@ -231,4 +227,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFfMDYxIiwNCiAgImFkZCI6ICI1ZGQ0YTM5Ni1z
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFfMDc0IiwNCiAgImFkZCI6ICJhNmMwODFkMS1zdjB4czAtdDh4NHZvLTEydWp6LmhrMy5wNXB2LmNvbSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImU1YjU3MTU2LTNjODEtMTFlYy1hOGJmLWYyM2M5MWNmYmJjOSIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYTZjMDgxZDEtc3YweHMwLXQ4eDR2by0xMnVqei5oazMucDVwdi5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFfMDc5IiwNCiAgImFkZCI6ICJiMTYwMTIxNy1zdjJzZzAtdGNkbHVyLTFxd29tLmhrMy5wNXB2LmNvbSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjhkMGVjN2NjLWVlZmEtMTFlZS05YjU5LWYyM2M5MWNmYmJjOSIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYjE2MDEyMTctc3Yyc2cwLXRjZGx1ci0xcXdvbS5oazMucDVwdi5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFfMDcwIiwNCiAgImFkZCI6ICI4YjMxYTM1Ni1zdjJzZzAtdGIyMjRnLTFoMHI5LmhrMy5wNXB2LmNvbSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjliZmQwZGRlLTk1N2UtMTFlYy1hOGJmLWYyM2M5MWNmYmJjOSIsDQogICJhaWQiOiAiMiIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOGIzMWEzNTYtc3Yyc2cwLXRiMjI0Zy0xaDByOS5oazMucDVwdi5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
