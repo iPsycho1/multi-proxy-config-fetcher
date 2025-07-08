@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-08T11:18:32.615416+00:00",
+  "timestamp": "2025-07-08T12:33:21.574879+00:00",
   "channels": [
     {
       "url": "https://shadowmere.xyz/api/b64sub/",
@@ -28,21 +28,21 @@
       "url": "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
       "enabled": true,
       "metrics": {
-        "total_configs": 88209,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.09,
+        "total_configs": 88804,
+        "valid_configs": 20,
+        "unique_configs": 20,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.87,
-        "last_success": "2025-07-08T11:14:56.860289+00:00",
+        "overall_score": 74.88,
+        "last_success": "2025-07-08T12:29:46.671210+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
           "vless://": 2,
-          "vmess://": 9,
+          "vmess://": 8,
           "ss://": 0,
-          "trojan://": 9,
+          "trojan://": 8,
           "tuic://": 1
         }
       }
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.46,
-        "last_success": "2025-07-08T11:14:59.082445+00:00",
+        "overall_score": 77.66,
+        "last_success": "2025-07-08T12:29:48.756435+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,17 +77,17 @@
         "total_configs": 66300,
         "valid_configs": 245,
         "unique_configs": 241,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.61,
-        "last_success": "2025-07-08T11:15:12.881831+00:00",
+        "overall_score": 74.6,
+        "last_success": "2025-07-08T12:30:02.449839+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
-          "vless://": 187,
-          "vmess://": 22,
-          "ss://": 26,
+          "vless://": 192,
+          "vmess://": 21,
+          "ss://": 22,
           "trojan://": 5,
           "tuic://": 0
         }
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 19,
-        "unique_configs": 19,
+        "valid_configs": 17,
+        "unique_configs": 17,
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.0,
-        "last_success": "2025-07-08T11:15:15.626861+00:00",
+        "last_success": "2025-07-08T12:30:05.130084+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 3,
-          "vmess://": 14,
+          "vless://": 4,
+          "vmess://": 10,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 3,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 409600,
         "valid_configs": 618,
         "unique_configs": 618,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.97,
-        "last_success": "2025-07-08T11:18:15.398795+00:00",
+        "overall_score": 74.9,
+        "last_success": "2025-07-08T12:33:04.172527+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -146,11 +146,11 @@
         "total_configs": 6400,
         "valid_configs": 78,
         "unique_configs": 78,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.25,
-        "last_success": "2025-07-08T11:18:17.791801+00:00",
+        "overall_score": 75.16,
+        "last_success": "2025-07-08T12:33:06.621707+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.23,
-        "last_success": "2025-07-08T11:18:20.142833+00:00",
+        "last_success": "2025-07-08T12:33:08.967409+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
@@ -189,8 +189,8 @@
       "url": "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/hiddify/mix",
       "enabled": false,
       "metrics": {
-        "total_configs": 89991,
-        "valid_configs": 22,
+        "total_configs": 90592,
+        "valid_configs": 20,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
@@ -201,9 +201,9 @@
           "wireguard://": 0,
           "hysteria2://": 1,
           "vless://": 2,
-          "vmess://": 9,
+          "vmess://": 8,
           "ss://": 0,
-          "trojan://": 9,
+          "trojan://": 8,
           "tuic://": 1
         }
       }
