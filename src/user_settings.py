@@ -11,7 +11,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho%20BPB",
     "https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
-    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/hiddify/mix",
+    "https://www.v2nodes.com/subscriptions/country/all/?key=F225BC16D80D287",
     # Add more URLs here if you want to include additional sources.
 ]
 
