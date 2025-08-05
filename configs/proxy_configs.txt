@@ -16,8 +16,6 @@ vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809/?type=tcp&encr
 
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
 
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram@WangCai2#🏳[openproxylist.com] vless-
-
 vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661/?type=grpc&encryption=none&flow=&sni=osxapps.itunes.apple.com&fp=chrome&security=reality&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&sid=2519
 
 vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096/?encryption=none&flow=&host=speedtest.net&type=tcp&headerType=http
@@ -59,6 +57,8 @@ vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.38.183:2087?path=%2Fcheqq4lR
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.38.253:2082?path=%2F0cpUqldgCia8SRho%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2016%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.38.253:2087?path=%2FQ8qVoEBwQXKtOIGz%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ipsycho.suex1.workers.dev&fp=randomized&type=ws&sni=iPSYCHo.Suex1.worKers.Dev#%F0%9F%92%A6%2047%20-%20VLESS%20-%20Clean%20IP%20%3A%202087
+
+vless://0bed33df-5714-4985-bf6b-035a01df4a00@104.24.38.73:2082?path=%2FiPaztTHSeF6nbo8g%3Fed%3D2560&security=&encryption=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%2019%20-%20VLESS%20-%20Clean%20IP%20%3A%202082
 
 trojan://%5E%24d%2BP%3BvaPa_I@104.21.56.2:2082?path=%2Ftr2qmfu0Z3wxkK9g8g%3Fed%3D2560&security=none&host=ipsycho.suex1.workers.dev&type=ws#%F0%9F%92%A6%203%20-%20Trojan%20-%20IPv4%20%3A%202082
 
@@ -240,6 +240,8 @@ vmess://eyJhZGQiOiI0My4xOTkuMjQuMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+
 vmess://eyJhZGQiOiI0Ni4yNDMuMy40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZmQxNjE3MS04Yzc4LTQ3NWMtODBmZS1hNmY2NmIzMTBiZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI1ODA4IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI0Ni4yNDMuMy40MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOGZkMTYxNzEtOGM3OC00NzVjLTgwZmUtYTZmNjZiMzEwYmYzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyNTgwOCwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLU5MIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
@@ -281,6 +283,4 @@ vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk2NzQiLCJwcyI6InFfMDAwNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjlkM2M0MTQtODljYy00NTVkLWI3MTctMTBjN2NhMTY2NWExIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODgzOCIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI5MS45OS4xNTMuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhbmVsLmFydXNoYXNvZnQuY29tIiwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM5MTMwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
