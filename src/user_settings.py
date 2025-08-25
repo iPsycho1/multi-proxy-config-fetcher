@@ -3,7 +3,6 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://shadowmere.xyz/api/b64sub/",
     "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
     "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
