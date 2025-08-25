@@ -6,8 +6,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho%20BPB",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
-    "https://www.v2nodes.com/subscriptions/country/all/?key=F225BC16D80D287",
-    "https://unlckmy.net/sub/u446118s3684894p69/42f2de82e7c892d58bffbf98100a4a3f",
     "https://drive.google.com/uc?id=10SWXrPMLzd8TifJZAvuqc2XCIkuhefvS&export=download",
     "https://zaya.link/T_hamedp71",
     "https://igdux.top/~omidn-exp1404-9-30",
