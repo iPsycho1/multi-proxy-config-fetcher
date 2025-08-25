@@ -3,12 +3,8 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
-    "https://raw.githubusercontent.com/iPsycho1/ss-config-updater/refs/heads/main/configs.txt",
-    "https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho%20BPB",
-    "https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://www.v2nodes.com/subscriptions/country/all/?key=F225BC16D80D287",
     "https://unlckmy.net/sub/u446118s3684894p69/42f2de82e7c892d58bffbf98100a4a3f",
